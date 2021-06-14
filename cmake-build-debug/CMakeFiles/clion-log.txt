@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -I/usr/local/include -lglfw -G "CodeBlocks - Unix Makefiles" /Users/achintya/DreamWorld
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/achintya/DreamWorld/cmake-build-debug
